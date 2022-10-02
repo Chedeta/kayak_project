@@ -14,7 +14,7 @@ Pour la méteo, les données sont récupérées via une <code>api</code> de <i>M
 
 L'étude s'articule ainsi autour de trois axes :
 <ul>
-  <li>La récupération des données sur les hôtels avec <code>Spyder</code></li>
+  <li>La récupération des données sur les hôtels avec <code>Scrapy</code></li>
   <li>Le nettoyage des données et l'export pour utilisation en tant que base de données</li>
   <li>Analyse exploratoire pour proposer des top destinations en fonction de critères tels que la météo ou encore les notes attribuées aux hôtels.</li>
 </ul>
@@ -31,5 +31,5 @@ Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/kay
 
 ## 3. Crédits
 
-Auteur : Jean Ivars
+Auteur : Jean Ivars, avec la participation de <a href='https://github.com/Bebock'>Hélène</a> et <a href='https://github.com/HenriPuntous/'>Henri</a>
 
