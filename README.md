@@ -17,10 +17,14 @@ L'étude s'articule ainsi autour de trois axes :
   <li>Analyse exploratoire pour proposer des top destinations en fonction de critères tels que la météo ou encore les notes attribuées aux hôtels.</li>
 </ul>
 
-## 2. Aperçu
-Après un fine-tuning des hyper-paramètres du `DBSCAN` pour trouver les paramètres optimaux du clustering, faisant la balance entre le nombre de clusters et le nombre d'outliers, l'analyse des mots représentatifs du cluster est possible par un `WordCloud`, dont voici un exemple pour le cluster n°6 :
+## 2. Aperçu des résultats 
 
-Le cluster 6, par exemple, regroupe majoritairement des produits à base de laine ou des articles de montagne, ainsi si un utilisateur cherche un produit chaud pour la montagne, l'algorithme pourra proposer différents articles connexes à sa recherche.
+Après extraction et nettoyage des données, l'utilisation de <code>mapbox</code> et <code>plotly</code> permettent de visulaliser les données des hôtels :
+
+<img src="https://i.postimg.cc/qzB7br0y/Capture-d-cran-2022-10-02-113802.png" alt="Capture-d-cran-2022-10-02-113802"/>
+<br/><br/>
+<img src="https://i.postimg.cc/D8CwRNyD/Sans-titre.jpg" alt="Sans-titre"/>
+
 
 Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
