@@ -2,12 +2,19 @@
 
 ## 1. Data Overview et objectifs
 
+Pas de dataset à proprement parler dans ce projet, les données sont à chercher soi-même. En effet, dans le but de re-créer un outil de type Kayak, qui permet de comparer les hotels et de donner des top-destinations, il a fallu récupérer des données sur les villes les plus visitées, les hôtels les mieux notés et enfin les météos associées à chacune des villes.
+
+Pour cela, pas énormément de choix si ce n'est accéder à ces données soit par une <code>api</code>, soit par du <code>web-scraping</code>.
+
+Ainsi, les données de chacuns des hôtels des villes phares du tourisme en France sont récupérées par scraping sur le site <i>Booking.com</i>.
+
+Pour la méteo, les données sont récupérées via une <code>api</code> de <i>MétéoConcept</i>
+
 L'étude s'articule ainsi autour de trois axes :
 <ul>
-  <li>Le pré-processing des données, avec les librairies <code>spacy</code> et <code>re</code></li>
-  <li>L'utilisation de <code>DBSCAN</code>, qui permet de faire du clustering sur les données, afin de rassembler les produits avec une description similaire</li>
-  <li>Méthode LSA via <code>TruncatedSVD</code> de <code>scikit-learn</code>, ou <i>topic-modeling</i>, qui créé des topics pertinents en rapport avec la description des produits.
-    Pour chaque produit, une note par topic est associée, plus celle-ci se rapproche de 1, mieux le topic explique le produit.</li>
+  <li>La récupération des données sur les hôtels avec <code>Spyder</code></li>
+  <li>Le nettoyage des données et l'export pour utilisation en tant que base de données</li>
+  <li>Analyse exploratoire pour proposer des top destinations en fonction de critères tels que la météo ou encore les notes attribuées aux hôtels.</li>
 </ul>
 
 ## 2. Aperçu
