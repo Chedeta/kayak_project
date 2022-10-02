@@ -21,12 +21,11 @@ L'étude s'articule ainsi autour de trois axes :
 
 Après extraction et nettoyage des données, l'utilisation de <code>mapbox</code> et <code>plotly</code> permettent de visulaliser les données des hôtels :
 
-<p text-align='center'><img src="https://i.ibb.co/kBP5K5k/Capture-d-cran-2022-10-02-113802.png" alt="Capture-d-cran-2022-10-02-113802" border="0"></p>
+<p align='center'><img src="https://i.ibb.co/kBP5K5k/Capture-d-cran-2022-10-02-113802.png" alt="Capture-d-cran-2022-10-02-113802" border="0"></p>
 <br/>
-test
-<img src="https://i.ibb.co/n6np9sq/Sans-titre.jpg" alt="Sans-titre" border="0">
-
-
+Mais aussi les données concernant la météo :
+<p align='center'><img src="https://i.ibb.co/n6np9sq/Sans-titre.jpg" alt="Sans-titre" border="0"></p>
+<br/>
 Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition.
 
 ## 3. Crédits
