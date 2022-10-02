@@ -25,7 +25,7 @@ Après extraction et nettoyage des données, l'utilisation de <code>mapbox</code
 Mais aussi les données concernant la météo :
 <p align='center'><img src="https://i.ibb.co/n6np9sq/Sans-titre.jpg" alt="Sans-titre" border="0"></p>
 
-Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/the_north_face_nlp/blob/main/NorthFace_final.ipynb'>le notebook</a> mis à disposition et en vidéo pour la visualisation des graphiques.
+Le reste de l'étude est détaillé dans <a href='https://github.com/Chedeta/kayak_project/blob/main/Kayak_final.ipynb'>le notebook</a> mis à disposition et en vidéo pour la visualisation des graphiques.
 
 ## 3. Crédits
 
