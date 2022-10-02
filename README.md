@@ -21,7 +21,9 @@ L'étude s'articule ainsi autour de trois axes :
 
 Après extraction et nettoyage des données, l'utilisation de <code>mapbox</code> et <code>plotly</code> permettent de visulaliser les données des hôtels :
 
-<img src="https://i.ibb.co/kBP5K5k/Capture-d-cran-2022-10-02-113802.png" alt="Capture-d-cran-2022-10-02-113802" border="0">
+<p text-align='center'><img src="https://i.ibb.co/kBP5K5k/Capture-d-cran-2022-10-02-113802.png" alt="Capture-d-cran-2022-10-02-113802" border="0"></p>
+<br/>
+test
 <img src="https://i.ibb.co/n6np9sq/Sans-titre.jpg" alt="Sans-titre" border="0">
 
 
