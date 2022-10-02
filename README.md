@@ -1,5 +1,7 @@
 # Projet : Création d'un outil type Kayak - WebScraping et EDA
 
+Cliquer ici pour la vidéo de présentation du projet
+
 ## 1. Data Overview et objectifs
 
 Pas de dataset à proprement parler dans ce projet, les données sont à chercher soi-même. En effet, dans le but de re-créer un outil de type Kayak, qui permet de comparer les hotels et de donner des top-destinations, il a fallu récupérer des données sur les villes les plus visitées, les hôtels les mieux notés et enfin les météos associées à chacune des villes.
